@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Pedro. I'm 29 years old and have a bachelor's degree in Computer Science. I have been a backend developer for almost 10 years. I consider myself a dynamic, serious person who enjoys finding solutions to problems.
+My name is Pedro. I'm 30 years old and have a bachelor's degree in Computer Science. I have been a backend developer for almost 10 years. I consider myself a dynamic, serious person who enjoys finding solutions to problems.
 
 My preferred language is Python, which I have been using for nearly 5 years. I am certified developer by the Python Institute with the PCEP-30-02 certification. With Python as my foundation, I have experience in creating microservices, designing interfaces following REST architecture constraints, and processing massive data through Apache PySpark.
 
