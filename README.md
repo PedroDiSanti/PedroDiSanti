@@ -17,7 +17,6 @@ I have some knowledge in requirements gathering, documentation, and UML and ER m
 I hold a TOEFL ITP B2 Upper Intermediate (33076) certification.
           
 <p align='center'>
-<a href="https://www.linkedin.com/in/pedro-afonso-rotta-di-santi-8842a017b/"><img height="30" src="https://github.com/PedroDiSanti/PedroDiSanti/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://gitlab.com/PedroDiSanti"><img height="30" src="https://github.com/PedroDiSanti/PedroDiSanti/blob/master/gitlab.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/84cfd553-ca77-4ac3-af4c-730c3a5991b0/public_url"><img height="30" src="https://images.credly.com/images/94d0811d-8fed-47e5-acc8-50b69342a9a4/pcep-30-02-badge.png"></a>
+<a href="https://www.linkedin.com/in/pedro-d-8842a017b/"><img height="30" src="https://github.com/PedroDiSanti/PedroDiSanti/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/84cfd553-ca77-4ac3-af4c-730c3a5991b0/public_url"><img height="30" src="https://images.credly.com/size/340x340/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png"></a>
 </p>
